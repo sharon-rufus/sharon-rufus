@@ -12,6 +12,6 @@ My primary focus lies in the realm of cybersecurity, where I enjoy exploring top
 On GitHub, you'll find a collection of my projects and contributions, showcasing my dedication to learning and applying cybersecurity concepts. From building secure applications to conducting vulnerability assessments, I am driven to enhance cybersecurity measures and promote a safer digital environment.
 
 🤝 Collaboration:
-I am eager to collaborate with like-minded individuals and teams, exchanging knowledge and ideas to make a real impact in the cybersecurity space. Feel free to reach out to me at sharonrufus@outlook.com for any exciting opportunities or collaborations.
+I am eager to collaborate with young like-minded individuals and teams, exchanging knowledge and ideas to make a real impact in the cybersecurity space. Feel free to reach out to me at sharonrufus@outlook.com for any exciting opportunities and sessions or collaborations.
 
 Let's work together to fortify the digital world against emerging threats! Connect with me and let's make a difference. 💪🔒
